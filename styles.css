@@ -8,7 +8,7 @@ body{
 }
 .header{
     min-height: 100vh;
-    background:linear-gradient(180deg, rgba(98,20,2,0.31)0%, #621402 85.62%), url("/sdcard/Download/bg.jpg") no-repeat center top/cover;
+    background:linear-gradient(180deg, rgba(98,20,2,0.31)0%, #621402 85.62%), url("https://raw.githubusercontent.com/Alexey994/online-kino/main/bg.jpg") no-repeat center top/cover;
 }
 .film{
     margin-top:60px;
